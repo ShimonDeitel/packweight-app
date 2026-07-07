@@ -1,0 +1,29 @@
+{
+  "identifier": "packweight",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "packweight_pro",
+      "localizations": [
+        {
+          "description": "Unlimited bags, multiple airline limit presets, and full history.",
+          "displayName": "Packing Weightly Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "packweight_pro",
+      "referenceName": "Packing Weightly Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
